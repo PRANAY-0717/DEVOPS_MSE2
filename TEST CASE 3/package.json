@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "Node.js REST API for Test Case 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pranay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6"
+  }
+}
